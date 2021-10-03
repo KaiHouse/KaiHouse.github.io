@@ -1,0 +1,43 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "KEVINSONGG",
+    "description": "",
+    "home_page_url": "https://kaihouse.github.io",
+    "feed_url": "https://kaihouse.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "bblog"
+    },
+    "items": [
+        {
+            "id": "https://kaihouse.github.io/guang-yin-she-ji.html",
+            "url": "https://kaihouse.github.io/guang-yin-she-ji.html",
+            "title": "光音设计",
+            "summary": "<h2>s'da's'da's'da's'da's'd</h2>\n",
+            "content_html": "\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://kaihouse.github.io/media/posts/3/P9eA2jM-1.png\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://kaihouse.github.io/media/posts/3/responsive/P9eA2jM-1-xs.png 300w ,https://kaihouse.github.io/media/posts/3/responsive/P9eA2jM-1-sm.png 480w ,https://kaihouse.github.io/media/posts/3/responsive/P9eA2jM-1-md.png 768w ,https://kaihouse.github.io/media/posts/3/responsive/P9eA2jM-1-lg.png 1024w\"  alt=\"\" width=\"945\" height=\"2048\"></figure>",
+            "image": "https://kaihouse.github.io/media/posts/3/600.jpeg",
+            "author": {
+                "name": "bblog"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-10-03T22:46:56+08:00",
+            "date_modified": "2021-10-03T22:46:56+08:00"
+        },
+        {
+            "id": "https://kaihouse.github.io/iam-product-ux-designer.html",
+            "url": "https://kaihouse.github.io/iam-product-ux-designer.html",
+            "title": "iam product ux designer",
+            "summary": "每个设计师应该都想拥有一个个人网站，既能展示自己的作品集，又能打造个人品牌。可是，做一个网站有一定的技术门槛，比如需要懂服务器、命令行、代码什么的。 而如今，你完全不用担心这些事情了。现在各种各样的可视化建站工具层出不穷，而且都有着丰富的模板，让我们可以通过拖拽快速搭建一个还不错的个人网站。在这篇文章里，我将推荐几个适合设计师的网站搭建工具。 Notion 是一个强大的在线笔记应用，那它为什么会出现在这里？换个角度看，其实我们的个人网站也是笔记，由一篇篇文章组成，而 Notion 又是支持分享成链接的，所以我们也可以把 Notion 作为一个建站工具。 我用 Notion 做了一个简单的示例。可以看到，我们可以自由排布图片或链接，把它做成一个网站的样子。 Notion 还有一个嵌入的功能，你可以把任何在线的内容嵌入其中。比如说你的设计是使用&hellip;",
+            "content_html": "<p>每个设计师应该都想拥有一个个人网站，既能展示自己的作品集，又能打造个人品牌。可是，做一个网站有一定的技术门槛，比如需要懂服务器、命令行、代码什么的。</p>\n<p>而如今，你完全不用担心这些事情了。现在各种各样的可视化建站工具层出不穷，而且都有着丰富的模板，让我们可以通过拖拽快速搭建一个还不错的个人网站。在这篇文章里，我将推荐几个适合设计师的网站搭建工具。</p>\n<h2>Notion</h2>\n<p><a href=\"https://www.notion.so/\" target=\"_blank\" rel=\"noopener noreferrer\">Notion</a> 是一个强大的在线笔记应用，那它为什么会出现在这里？换个角度看，其实我们的个人网站也是笔记，由一篇篇文章组成，而 Notion 又是支持分享成链接的，所以我们也可以把 Notion 作为一个建站工具。</p>\n<p>我用 Notion 做了一个简单的示例。可以看到，我们可以自由排布图片或链接，把它做成一个网站的样子。</p>\n<p><span class=\"gatsby-resp-image-wrapper\"><a class=\"gatsby-resp-image-link\" href=\"https://cdn.jsdelivr.net/gh/leadream/juuun.io@gh-pages/static/8d6ba2cd3484fe7dc68a28a6c33abe7c/0b569/notion-portfolio.png\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" class=\"gatsby-resp-image-image\" title=\"Notion 作品集\" src=\"https://cdn.jsdelivr.net/gh/leadream/juuun.io@gh-pages/static/8d6ba2cd3484fe7dc68a28a6c33abe7c/6af66/notion-portfolio.png\" data-is-external-image=\"true\"  sizes=\"(max-width: 640px) 100vw, 640px\" srcset=\"https://cdn.jsdelivr.net/gh/leadream/juuun.io@gh-pages/static/8d6ba2cd3484fe7dc68a28a6c33abe7c/69538/notion-portfolio.png 160w,\nhttps://cdn.jsdelivr.net/gh/leadream/juuun.io@gh-pages/static/8d6ba2cd3484fe7dc68a28a6c33abe7c/72799/notion-portfolio.png 320w,\nhttps://cdn.jsdelivr.net/gh/leadream/juuun.io@gh-pages/static/8d6ba2cd3484fe7dc68a28a6c33abe7c/6af66/notion-portfolio.png 640w,\nhttps://cdn.jsdelivr.net/gh/leadream/juuun.io@gh-pages/static/8d6ba2cd3484fe7dc68a28a6c33abe7c/d9199/notion-portfolio.png 960w,\nhttps://cdn.jsdelivr.net/gh/leadream/juuun.io@gh-pages/static/8d6ba2cd3484fe7dc68a28a6c33abe7c/21b4d/notion-portfolio.png 1280w,\nhttps://cdn.jsdelivr.net/gh/leadream/juuun.io@gh-pages/static/8d6ba2cd3484fe7dc68a28a6c33abe7c/0b569/notion-portfolio.png 2878w\" alt=\"Notion 作品集\"></a></span></p>\n<p>Notion 还有一个嵌入的功能，你可以把任何在线的内容嵌入其中。比如说你的设计是使用 Figma 制作的，那么就可以直接嵌入 Figma 视图，这样别人在查看时可以直接在这个视图内放大或缩小，来查看你的设计效果和细节。你还可以嵌入 Figma 可交互原型，这样你的作品集就更加生动了。</p>\n<p><span class=\"gatsby-resp-image-wrapper\"><a class=\"gatsby-resp-image-link\" href=\"https://cdn.jsdelivr.net/gh/leadream/juuun.io@gh-pages/static/737894d438aace9297a3e5d77d06aed3/de062/embed-figma.jpg\" target=\"_blank\" rel=\"noopener\"><img loading=\"lazy\" class=\"gatsby-resp-image-image\" title=\"嵌入 Figma 作品\" src=\"https://cdn.jsdelivr.net/gh/leadream/juuun.io@gh-pages/static/737894d438aace9297a3e5d77d06aed3/c08c5/embed-figma.jpg\" data-is-external-image=\"true\"  sizes=\"(max-width: 640px) 100vw, 640px\" srcset=\"https://cdn.jsdelivr.net/gh/leadream/juuun.io@gh-pages/static/737894d438aace9297a3e5d77d06aed3/0913d/embed-figma.jpg 160w,\nhttps://cdn.jsdelivr.net/gh/leadream/juuun.io@gh-pages/static/737894d438aace9297a3e5d77d06aed3/cb69c/embed-figma.jpg 320w,\nhttps://cdn.jsdelivr.net/gh/leadream/juuun.io@gh-pages/static/737894d438aace9297a3e5d77d06aed3/c08c5/embed-figma.jpg 640w,\nhttps://cdn.jsdelivr.net/gh/leadream/juuun.io@gh-pages/static/737894d438aace9297a3e5d77d06aed3/6a068/embed-figma.jpg 960w,\nhttps://cdn.jsdelivr.net/gh/leadream/juuun.io@gh-pages/static/737894d438aace9297a3e5d77d06aed3/eea4a/embed-figma.jpg 1280w,\nhttps://cdn.jsdelivr.net/gh/leadream/juuun.io@gh-pages/static/737894d438aace9297a3e5d77d06aed3/de062/embed-figma.jpg 2878w\" alt=\"嵌入 Figma 作品\"></a></span></p>\n<p>参考：<a href=\"https://sspai.com/post/56662\" target=\"_blank\" rel=\"noopener noreferrer\">用 Notion 做网站：设计师的武器库v1.0已上线</a></p>",
+            "image": "https://kaihouse.github.io/media/posts/1/600.jpeg",
+            "author": {
+                "name": "bblog"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-10-03T22:45:08+08:00",
+            "date_modified": "2021-10-03T22:45:08+08:00"
+        }
+    ]
+}
