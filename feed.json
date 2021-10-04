@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://kaihouse.github.io/guang-yin-she-ji.html",
+            "url": "https://kaihouse.github.io/guang-yin-she-ji.html",
+            "title": "DING CONCEPT REDESIGN",
+            "summary": "OVERVIEW 在我看来，钉钉代表了高效快速的沟通、便捷清晰的工作方式，于是我从这点着手进行概念重设计，从品牌Logo到消息、DING以及工作三个页面，着重表现品牌色、加强设计感并调整了部分交互。 提取出原Logo的闪电元素，意指“快速、便捷、高效”, 同时加强了“沟通、交流”的含义, 加入对话气泡的效果，展示出高效沟通的隐喻 经过对周边亲友的小范围调研，我整理出了一些问题： 1.一些年轻用户表示App设计感不足，虽然整体简洁干净，但对于普通用户来说，过度的简洁（纯白色系）看上去有些简单，再比如聊天界面的气泡太过死板等。 2.在小范围调研中，我发现基本所有用户最常用的功能只有几个，集中在打卡和审批，但它们的位置却比较隐藏。 3.任务界面的设计，只有完成与否的选项，而在我们日常工作中，会有还未开始、正在做、已经完成三个选项（甚至还有审核、测试中），更细致的工作进程选项可以帮助工作便捷合理的进行安排。 4.当前有些入口的触摸区域明显小于科学适宜的面积，比如增加新的DING、任务和会议等。 5.在增加新的DING时，选择悄悄话模式后，输入框变成半透明背景，略显粗糙。 视频使用Flinto录制，展现了整体重设计的交互流程。&hellip;",
+            "content_html": "<h2>OVERVIEW</h2>\n<p>在我看来，钉钉代表了高效快速的沟通、便捷清晰的工作方式，于是我从这点着手进行概念重设计，从品牌Logo到消息、DING以及工作三个页面，着重表现品牌色、加强设计感并调整了部分交互。</p>\n<h2>ICON REDESIGN</h2>\n<p>提取出原Logo的闪电元素，意指“快速、便捷、高效”, 同时加强了“沟通、交流”的含义, 加入对话气泡的效果，展示出高效沟通的隐喻</p>\n<p><img loading=\"lazy\" src=\"https://amosushi.github.io/pages/ding/1.jpg\" data-is-external-image=\"true\" ></p>\n<div class=\"pageimg\"><img loading=\"lazy\" src=\"https://amosushi.github.io/pages/ding/2.jpg\" data-is-external-image=\"true\" ></div>\n<h2 class=\"pageimg\"><img loading=\"lazy\" src=\"https://amosushi.github.io/pages/ding/3.jpg\" data-is-external-image=\"true\" ></h2>\n<h2 class=\"pageimg\">RESEARCH PROBLEM</h2>\n<p>经过对周边亲友的小范围调研，我整理出了一些问题：</p>\n<p>1.一些年轻用户表示App设计感不足，虽然整体简洁干净，但对于普通用户来说，过度的简洁（纯白色系）看上去有些简单，再比如聊天界面的气泡太过死板等。</p>\n<p>2.在小范围调研中，我发现基本所有用户最常用的功能只有几个，集中在打卡和审批，但它们的位置却比较隐藏。</p>\n<p>3.任务界面的设计，只有完成与否的选项，而在我们日常工作中，会有还未开始、正在做、已经完成三个选项（甚至还有审核、测试中），更细致的工作进程选项可以帮助工作便捷合理的进行安排。</p>\n<p>4.当前有些入口的触摸区域明显小于科学适宜的面积，比如增加新的DING、任务和会议等。</p>\n<p>5.在增加新的DING时，选择悄悄话模式后，输入框变成半透明背景，略显粗糙。</p>\n<h2>UI REDESIGN</h2>\n<p>视频使用Flinto录制，展现了整体重设计的交互流程。</p>\n<p><img loading=\"lazy\" src=\"https://amosushi.github.io/pages/ding/4.jpg\" data-is-external-image=\"true\" ></p>\n<div class=\"pageimg\"><img loading=\"lazy\" src=\"https://amosushi.github.io/pages/ding/5.jpg\" data-is-external-image=\"true\" ></div>\n<div class=\"pageimg\"><img loading=\"lazy\" src=\"https://amosushi.github.io/pages/ding/6.jpg\" data-is-external-image=\"true\" ></div>\n<div class=\"pageimg\"><img loading=\"lazy\" src=\"https://amosushi.github.io/pages/ding/7.jpg\" data-is-external-image=\"true\" ></div>\n<div class=\"pageimg\"><img loading=\"lazy\" src=\"https://amosushi.github.io/pages/ding/8.jpg\" data-is-external-image=\"true\" ></div>\n<div class=\"pageimg\"><img loading=\"lazy\" src=\"https://amosushi.github.io/pages/ding/9.jpg\" data-is-external-image=\"true\" ></div>\n<div class=\"pageimg\"><img loading=\"lazy\" src=\"https://amosushi.github.io/pages/ding/10.jpg\" data-is-external-image=\"true\" ></div>\n<div class=\"pageimg\"><img loading=\"lazy\" src=\"https://amosushi.github.io/pages/ding/11.jpg\" data-is-external-image=\"true\" ></div>\n<div class=\"pageimg\"><img loading=\"lazy\" src=\"https://amosushi.github.io/pages/ding/12.jpg\" data-is-external-image=\"true\" ></div>\n<div class=\"pageimg\"><img loading=\"lazy\" src=\"https://amosushi.github.io/pages/ding/13.jpg\" data-is-external-image=\"true\" ></div>\n<div class=\"pageimg\"><img loading=\"lazy\" src=\"https://amosushi.github.io/pages/ding/14.jpg\" data-is-external-image=\"true\" ></div>",
+            "image": "https://kaihouse.github.io/media/posts/3/16-1.png",
+            "author": {
+                "name": "KAIDESIGN"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-10-04T20:59:03+08:00",
+            "date_modified": "2021-10-04T20:59:03+08:00"
+        },
+        {
             "id": "https://kaihouse.github.io/ceshi-wanzheang.html",
             "url": "https://kaihouse.github.io/ceshi-wanzheang.html",
             "title": "博客页面测试",
@@ -22,35 +37,6 @@
             ],
             "date_published": "2021-10-04T16:03:58+08:00",
             "date_modified": "2021-10-04T16:03:58+08:00"
-        },
-        {
-            "id": "https://kaihouse.github.io/about-me.html",
-            "url": "https://kaihouse.github.io/about-me.html",
-            "title": "About me",
-            "summary": "👋 👋 👋 Hi, I'm Matt. I'm a Designer / illustrator with roots in Australia,&hellip;",
-            "content_html": "<h3><span class=\"light\">👋 </span><span class=\"light\">👋 </span><span class=\"light\">👋</span></h3>\n<h2><span class=\"light\">Hi, I'm Matt. I'm a Designer / illustrator with roots in Australia, and now living in beautiful San Francisco. I've been a freelance designer for 7 years, having the honor of solving problems with some great companies and clients.</span></h2>\n<h2><span class=\"light\">I'm currently available for freelance projects. </span></h2>\n<h2><span class=\"light\">Clients include: Airbnb, Uber, 2k Sports, iStock, Dollar Shave Club, Nutanix, Lugg </span></h2>\n<h2> </h2>\n<h2>BOOKS I'M READING</h2>\n<p>Learning, like Design is never complete. Here are some of the books that have inspired me and helped me shape my thinking as a designer.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  style=\"color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);\" src=\"https://kaihouse.github.io/media/posts/6/about-face.jpg\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://kaihouse.github.io/media/posts/6/responsive/about-face-xs.jpg 300w ,https://kaihouse.github.io/media/posts/6/responsive/about-face-sm.jpg 480w ,https://kaihouse.github.io/media/posts/6/responsive/about-face-md.jpg 768w ,https://kaihouse.github.io/media/posts/6/responsive/about-face-lg.jpg 1024w\"  alt=\"\" width=\"398\" height=\"500\"></figure>\n<p><span style=\"letter-spacing: -0.0111111rem; color: var(--headings-color); font-family: var(--font-base); font-size: 1.125em; font-weight: var(--font-weight-bold);\">“Design is a funny word. Some people think design means how it looks. But of course, if you dig deeper, it’s really how it works.”</span></p>\n<p><span style=\"letter-spacing: 0.0555556rem; font-size: 0.666667rem; text-align: center; color: var(--text-editor-body-color); font-family: var(--font-base); font-weight: var(--font-weight-normal);\">– STEVE JOBS</span></p>\n<p> </p>\n<p><span style=\"color: var(--headings-color); font-family: var(--font-base); font-size: 1.77778rem; font-weight: var(--font-weight-bold); letter-spacing: -0.03rem;\">交个朋友？一起交流</span></p>\n<p><a href=\"www.baidu.com\" style=\"font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);\">EMAIL</a><span style=\"color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);\">  /  </span><a href=\"www.baidu.com\" style=\"font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);\">DRIBBBLE</a></p>",
-            "author": {
-                "name": "KAIDESIGN"
-            },
-            "tags": [
-            ],
-            "date_published": "2021-10-04T15:41:18+08:00",
-            "date_modified": "2021-10-04T15:41:18+08:00"
-        },
-        {
-            "id": "https://kaihouse.github.io/guang-yin-she-ji.html",
-            "url": "https://kaihouse.github.io/guang-yin-she-ji.html",
-            "title": "DING CONCEPT REDESIGN",
-            "summary": "OVERVIEW 在我看来，钉钉代表了高效快速的沟通、便捷清晰的工作方式，于是我从这点着手进行概念重设计，从品牌Logo到消息、DING以及工作三个页面，着重表现品牌色、加强设计感并调整了部分交互。 提取出原Logo的闪电元素，意指“快速、便捷、高效”, 同时加强了“沟通、交流”的含义, 加入对话气泡的效果，展示出高效沟通的隐喻 经过对周边亲友的小范围调研，我整理出了一些问题： 1.一些年轻用户表示App设计感不足，虽然整体简洁干净，但对于普通用户来说，过度的简洁（纯白色系）看上去有些简单，再比如聊天界面的气泡太过死板等。 2.在小范围调研中，我发现基本所有用户最常用的功能只有几个，集中在打卡和审批，但它们的位置却比较隐藏。 3.任务界面的设计，只有完成与否的选项，而在我们日常工作中，会有还未开始、正在做、已经完成三个选项（甚至还有审核、测试中），更细致的工作进程选项可以帮助工作便捷合理的进行安排。 4.当前有些入口的触摸区域明显小于科学适宜的面积，比如增加新的DING、任务和会议等。 5.在增加新的DING时，选择悄悄话模式后，输入框变成半透明背景，略显粗糙。 视频使用Flinto录制，展现了整体重设计的交互流程。&hellip;",
-            "content_html": "<h2>OVERVIEW</h2>\n<p>在我看来，钉钉代表了高效快速的沟通、便捷清晰的工作方式，于是我从这点着手进行概念重设计，从品牌Logo到消息、DING以及工作三个页面，着重表现品牌色、加强设计感并调整了部分交互。</p>\n<h2>ICON REDESIGN</h2>\n<p>提取出原Logo的闪电元素，意指“快速、便捷、高效”, 同时加强了“沟通、交流”的含义, 加入对话气泡的效果，展示出高效沟通的隐喻</p>\n<p><img loading=\"lazy\" src=\"https://amosushi.github.io/pages/ding/1.jpg\" data-is-external-image=\"true\" ></p>\n<div class=\"pageimg\"><img loading=\"lazy\" src=\"https://amosushi.github.io/pages/ding/2.jpg\" data-is-external-image=\"true\" ></div>\n<h2 class=\"pageimg\"><img loading=\"lazy\" src=\"https://amosushi.github.io/pages/ding/3.jpg\" data-is-external-image=\"true\" ></h2>\n<h2 class=\"pageimg\">RESEARCH PROBLEM</h2>\n<p>经过对周边亲友的小范围调研，我整理出了一些问题：</p>\n<p>1.一些年轻用户表示App设计感不足，虽然整体简洁干净，但对于普通用户来说，过度的简洁（纯白色系）看上去有些简单，再比如聊天界面的气泡太过死板等。</p>\n<p>2.在小范围调研中，我发现基本所有用户最常用的功能只有几个，集中在打卡和审批，但它们的位置却比较隐藏。</p>\n<p>3.任务界面的设计，只有完成与否的选项，而在我们日常工作中，会有还未开始、正在做、已经完成三个选项（甚至还有审核、测试中），更细致的工作进程选项可以帮助工作便捷合理的进行安排。</p>\n<p>4.当前有些入口的触摸区域明显小于科学适宜的面积，比如增加新的DING、任务和会议等。</p>\n<p>5.在增加新的DING时，选择悄悄话模式后，输入框变成半透明背景，略显粗糙。</p>\n<h2>UI REDESIGN</h2>\n<p>视频使用Flinto录制，展现了整体重设计的交互流程。</p>\n<p><img loading=\"lazy\" src=\"https://amosushi.github.io/pages/ding/4.jpg\" data-is-external-image=\"true\" ></p>\n<div class=\"pageimg\"><img loading=\"lazy\" src=\"https://amosushi.github.io/pages/ding/5.jpg\" data-is-external-image=\"true\" ></div>\n<div class=\"pageimg\"><img loading=\"lazy\" src=\"https://amosushi.github.io/pages/ding/6.jpg\" data-is-external-image=\"true\" ></div>\n<div class=\"pageimg\"><img loading=\"lazy\" src=\"https://amosushi.github.io/pages/ding/7.jpg\" data-is-external-image=\"true\" ></div>\n<div class=\"pageimg\"><img loading=\"lazy\" src=\"https://amosushi.github.io/pages/ding/8.jpg\" data-is-external-image=\"true\" ></div>\n<div class=\"pageimg\"><img loading=\"lazy\" src=\"https://amosushi.github.io/pages/ding/9.jpg\" data-is-external-image=\"true\" ></div>\n<div class=\"pageimg\"><img loading=\"lazy\" src=\"https://amosushi.github.io/pages/ding/10.jpg\" data-is-external-image=\"true\" ></div>\n<div class=\"pageimg\"><img loading=\"lazy\" src=\"https://amosushi.github.io/pages/ding/11.jpg\" data-is-external-image=\"true\" ></div>\n<div class=\"pageimg\"><img loading=\"lazy\" src=\"https://amosushi.github.io/pages/ding/12.jpg\" data-is-external-image=\"true\" ></div>\n<div class=\"pageimg\"><img loading=\"lazy\" src=\"https://amosushi.github.io/pages/ding/13.jpg\" data-is-external-image=\"true\" ></div>\n<div class=\"pageimg\"><img loading=\"lazy\" src=\"https://amosushi.github.io/pages/ding/14.jpg\" data-is-external-image=\"true\" ></div>",
-            "image": "https://kaihouse.github.io/media/posts/3/16.jpeg",
-            "author": {
-                "name": "KAIDESIGN"
-            },
-            "tags": [
-            ],
-            "date_published": "2021-10-04T14:14:14+08:00",
-            "date_modified": "2021-10-04T14:14:14+08:00"
         },
         {
             "id": "https://kaihouse.github.io/iam-product-ux-designer.html",
