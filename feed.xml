@@ -3,35 +3,38 @@
     <title>KAISPACE</title>
     <link href="https://kaihouse.github.io/feed.xml" rel="self" />
     <link href="https://kaihouse.github.io" />
-    <updated>2021-10-04T21:42:32+08:00</updated>
+    <updated>2021-10-05T22:57:28+08:00</updated>
     <author>
         <name>KAIDESIGN</name>
     </author>
     <id>https://kaihouse.github.io</id>
 
     <entry>
-        <title>最近读的专业书</title>
+        <title>GEGE DESIGN REVIEW</title>
         <author>
             <name>KAIDESIGN</name>
         </author>
-        <link href="https://kaihouse.github.io/zui-jin-du-de-zhuan-ye-shu.html"/>
-        <id>https://kaihouse.github.io/zui-jin-du-de-zhuan-ye-shu.html</id>
+        <link href="https://kaihouse.github.io/an-yin.html"/>
+        <id>https://kaihouse.github.io/an-yin.html</id>
+            <category term="WORK"/>
 
-        <updated>2021-10-04T21:42:32+08:00</updated>
+        <updated>2021-10-05T22:31:33+08:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://kaihouse.github.io/media/posts/10/16-1.png" alt="" />
-                    BOOKS I'M READING Learning, like Design is never complete. Here are some&hellip;
+                        <img src="https://kaihouse.github.io/media/posts/5/9.jpeg" alt="" />
+                    OVERVIEW GeGe是我加入Blink的第一个参与项目，我主要负责了其中的地标图标设计，而我设计的这套图标也被站酷作为首页推荐。 WORKS 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://kaihouse.github.io/media/posts/10/16-1.png" alt="" />
-                <h2>BOOKS I'M READING</h2>
-<p>Learning, like Design is never complete. Here are some of the books that have inspired me and helped me shape my thinking as a designer.</p>
-<figure class="post__image"><img loading="lazy"  src="https://kaihouse.github.io/media/posts/10/about-face.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://kaihouse.github.io/media/posts/10/responsive/about-face-xs.jpg 300w ,https://kaihouse.github.io/media/posts/10/responsive/about-face-sm.jpg 480w ,https://kaihouse.github.io/media/posts/10/responsive/about-face-md.jpg 768w ,https://kaihouse.github.io/media/posts/10/responsive/about-face-lg.jpg 1024w"  alt="" width="398" height="500"></figure>
-<p><span style="letter-spacing: -0.0111111rem; color: var(--headings-color); font-family: var(--font-base); font-size: 1.125em; font-weight: var(--font-weight-bold);">“Design is a funny word. Some people think design means how it looks. But of course, if you dig deeper, it’s really how it works.”</span></p>
-<p><span style="letter-spacing: 0.0555556rem; font-size: 0.666667rem; text-align: center; color: var(--text-editor-body-color); font-family: var(--font-base); font-weight: var(--font-weight-normal);">– STEVE JOBS</span></p>
+                    <img src="https://kaihouse.github.io/media/posts/5/9.jpeg" alt="" />
+                <h2>OVERVIEW</h2>
+<p>GeGe是我加入Blink的第一个参与项目，我主要负责了其中的地标图标设计，而我设计的这套图标也被站酷作为首页推荐。</p>
+<h2>WORKS</h2>
+<div class="pageimg"><img loading="lazy" src="https://amosushi.github.io/pages/gege/1.jpg" data-is-external-image="true" ></div>
+<div class="pageimg"><img loading="lazy" src="https://amosushi.github.io/pages/gege/2.jpg" data-is-external-image="true" ></div>
+<div class="pageimg"><img loading="lazy" src="https://amosushi.github.io/pages/gege/3.jpg" data-is-external-image="true" ></div>
+<div class="pageimg"><img loading="lazy" src="https://amosushi.github.io/pages/gege/4.jpg" data-is-external-image="true" ></div>
             ]]>
         </content>
     </entry>
@@ -43,7 +46,7 @@
         <link href="https://kaihouse.github.io/guang-yin-she-ji.html"/>
         <id>https://kaihouse.github.io/guang-yin-she-ji.html</id>
 
-        <updated>2021-10-04T21:30:02+08:00</updated>
+        <updated>2021-10-05T22:29:29+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://kaihouse.github.io/media/posts/3/16-1.png" alt="" />
@@ -84,6 +87,35 @@
         </content>
     </entry>
     <entry>
+        <title>最近读的专业书</title>
+        <author>
+            <name>KAIDESIGN</name>
+        </author>
+        <link href="https://kaihouse.github.io/zui-jin-du-de-zhuan-ye-shu.html"/>
+        <id>https://kaihouse.github.io/zui-jin-du-de-zhuan-ye-shu.html</id>
+
+        <updated>2021-10-05T22:57:28+08:00</updated>
+            <summary>
+                <![CDATA[
+                    BOOKS I'M READING Learning, like Design is never complete. Here are some&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2>BOOKS I'M READING</h2>
+<p>Learning, like Design is never complete. Here are some of the books that have inspired me and helped me shape my thinking as a designer.</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
+<figure class="gallery__item"><a href="https://kaihouse.github.io/media/posts/10/gallery/s4592217.jpeg" data-size="270x354"><img loading="lazy" src="https://kaihouse.github.io/media/posts/10/gallery/s4592217-thumbnail.jpeg" alt="" width="270" height="354"></a></figure>
+<figure class="gallery__item"><a href="https://kaihouse.github.io/media/posts/10/gallery/s29011584.jpeg" data-size="270x372"><img loading="lazy" src="https://kaihouse.github.io/media/posts/10/gallery/s29011584-thumbnail.jpeg" alt="" width="270" height="372"></a></figure>
+<figure class="gallery__item"><a href="https://kaihouse.github.io/media/posts/10/gallery/s6519128.jpeg" data-size="270x381"><img loading="lazy" src="https://kaihouse.github.io/media/posts/10/gallery/s6519128-thumbnail.jpeg" alt="" width="270" height="381"></a></figure>
+</div></div>
+<blockquote>
+<p><em>“Design is a funny word. Some people think design means how it looks. But of course, if you dig deeper, it’s really how it works.”</em>- STEVE JOBS</p>
+</blockquote>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>博客页面测试</title>
         <author>
             <name>KAIDESIGN</name>
@@ -91,9 +123,13 @@
         <link href="https://kaihouse.github.io/ceshi-wanzheang.html"/>
         <id>https://kaihouse.github.io/ceshi-wanzheang.html</id>
 
-        <updated>2021-10-04T21:41:49+08:00</updated>
+        <updated>2021-10-05T22:49:35+08:00</updated>
             <summary></summary>
-        <content></content>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image post__image--center"><img loading="lazy"  src="https://kaihouse.github.io/media/posts/8/600.jpeg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://kaihouse.github.io/media/posts/8/responsive/600-xs.jpeg 300w ,https://kaihouse.github.io/media/posts/8/responsive/600-sm.jpeg 480w ,https://kaihouse.github.io/media/posts/8/responsive/600-md.jpeg 768w ,https://kaihouse.github.io/media/posts/8/responsive/600-lg.jpeg 1024w"  alt="" width="600" height="600"></figure>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>HEY HONEY</title>
@@ -104,7 +140,7 @@
         <id>https://kaihouse.github.io/iam-product-ux-designer.html</id>
             <category term="REDESIGN"/>
 
-        <updated>2021-10-04T14:04:19+08:00</updated>
+        <updated>2021-10-05T22:31:01+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://kaihouse.github.io/media/posts/1/7.jpeg" alt="" />
@@ -127,35 +163,6 @@
         </content>
     </entry>
     <entry>
-        <title>GEGE DESIGN REVIEW</title>
-        <author>
-            <name>KAIDESIGN</name>
-        </author>
-        <link href="https://kaihouse.github.io/an-yin.html"/>
-        <id>https://kaihouse.github.io/an-yin.html</id>
-            <category term="WORK"/>
-
-        <updated>2021-10-04T13:58:56+08:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://kaihouse.github.io/media/posts/5/9.jpeg" alt="" />
-                    OVERVIEW GeGe是我加入Blink的第一个参与项目，我主要负责了其中的地标图标设计，而我设计的这套图标也被站酷作为首页推荐。 WORKS 
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://kaihouse.github.io/media/posts/5/9.jpeg" alt="" />
-                <h2>OVERVIEW</h2>
-<p>GeGe是我加入Blink的第一个参与项目，我主要负责了其中的地标图标设计，而我设计的这套图标也被站酷作为首页推荐。</p>
-<h2>WORKS</h2>
-<div class="pageimg"><img loading="lazy" src="https://amosushi.github.io/pages/gege/1.jpg" data-is-external-image="true" ></div>
-<div class="pageimg"><img loading="lazy" src="https://amosushi.github.io/pages/gege/2.jpg" data-is-external-image="true" ></div>
-<div class="pageimg"><img loading="lazy" src="https://amosushi.github.io/pages/gege/3.jpg" data-is-external-image="true" ></div>
-<div class="pageimg"><img loading="lazy" src="https://amosushi.github.io/pages/gege/4.jpg" data-is-external-image="true" ></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
         <title>MEIBO DESIGN REVIEW</title>
         <author>
             <name>KAIDESIGN</name>
@@ -164,7 +171,7 @@
         <id>https://kaihouse.github.io/meibo-design-review.html</id>
             <category term="WORK"/>
 
-        <updated>2021-10-04T11:22:07+08:00</updated>
+        <updated>2021-10-05T22:31:16+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://kaihouse.github.io/media/posts/4/8.jpeg" alt="" />
