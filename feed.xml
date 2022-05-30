@@ -22,7 +22,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://kaihouse.github.io/media/posts/5/9.jpeg" alt="" />
-                    OVERVIEW GeGe是我加入Blink的第一个参与项目，我主要负责了其中的地标图标设计，而我设计的这套图标也被站酷作为首页推荐。 WORKS 
+                    OVERVIEW GeGe是我加入Blink的第一个参与项目，我主要负责了其中的地标图标设计，而我设计的这套图标也被站酷作为首页推荐。 WORKS
                 ]]>
             </summary>
         <content type="html">
@@ -50,7 +50,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://kaihouse.github.io/media/posts/3/16-1.png" alt="" />
-                    OVERVIEW 在我看来，钉钉代表了高效快速的沟通、便捷清晰的工作方式，于是我从这点着手进行概念重设计，从品牌Logo到消息、DING以及工作三个页面，着重表现品牌色、加强设计感并调整了部分交互。 提取出原Logo的闪电元素，意指“快速、便捷、高效”, 同时加强了“沟通、交流”的含义, 加入对话气泡的效果，展示出高效沟通的隐喻 经过对周边亲友的小范围调研，我整理出了一些问题： 1.一些年轻用户表示App设计感不足，虽然整体简洁干净，但对于普通用户来说，过度的简洁（纯白色系）看上去有些简单，再比如聊天界面的气泡太过死板等。 2.在小范围调研中，我发现基本所有用户最常用的功能只有几个，集中在打卡和审批，但它们的位置却比较隐藏。 3.任务界面的设计，只有完成与否的选项，而在我们日常工作中，会有还未开始、正在做、已经完成三个选项（甚至还有审核、测试中），更细致的工作进程选项可以帮助工作便捷合理的进行安排。 4.当前有些入口的触摸区域明显小于科学适宜的面积，比如增加新的DING、任务和会议等。 5.在增加新的DING时，选择悄悄话模式后，输入框变成半透明背景，略显粗糙。 视频使用Flinto录制，展现了整体重设计的交互流程。&hellip;
+                    OVERVIEW 在我看来，钉钉代表了高效快速的沟通、便捷清晰的工作方式，于是我从这点着手进行概念重设计，从品牌Logo到消息、DING以及工作三个页面，着重表现品牌色、加强设计感并调整了部分交互。 提取出原Logo的闪电元素，意指“快速、便捷、高效”, 同时加强了“沟通、交流”的含义, 加入对话气泡的效果，展示出高效沟通的隐喻 经过对周边亲友的小范围调研，我整理出了一些问题： 1.一些年轻用户表示App设计感不足，虽然整体简洁干净，但对于普通用户来说，过度的简洁（纯白色系）看上去有些简单，再比如聊天界面的气泡太过死板等。 2.在小范围调研中，我发现基本所有用户最常用的功能只有几个，集中在打卡和审批，但它们的位置却比较隐藏。 3.任务界面的设计，只有完成与否的选项，而在我们日常工作中，会有还未开始、正在做、已经完成三个选项（甚至还有审核、测试中），更细致的工作进程选项可以帮助工作便捷合理的进行安排。 4.当前有些入口的触摸区域明显小于科学适宜的面积，比如增加新的DING、任务和会议等。 5.在增加新的DING时，选择悄悄话模式后，输入框变成半透明背景，略显粗糙。 视频使用Flinto录制，展现了整体重设计的交互流程。
                 ]]>
             </summary>
         <content type="html">
@@ -97,7 +97,7 @@
         <updated>2021-10-05T22:57:28+08:00</updated>
             <summary>
                 <![CDATA[
-                    BOOKS I'M READING Learning, like Design is never complete. Here are some&hellip;
+                    BOOKS I'M READING Learning, like Design is never complete. Here are some of the books that have inspired me and&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -127,7 +127,7 @@
             <summary></summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image post__image--center"><img loading="lazy"  src="https://kaihouse.github.io/media/posts/8/600.jpeg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://kaihouse.github.io/media/posts/8/responsive/600-xs.jpeg 300w ,https://kaihouse.github.io/media/posts/8/responsive/600-sm.jpeg 480w ,https://kaihouse.github.io/media/posts/8/responsive/600-md.jpeg 768w ,https://kaihouse.github.io/media/posts/8/responsive/600-lg.jpeg 1024w"  alt="" width="600" height="600"></figure>
+                <figure class="post__image post__image--center"><img loading="lazy"  src="https://kaihouse.github.io/media/posts/8/600.jpeg" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://kaihouse.github.io/media/posts/8/responsive/600-xs.jpeg 384w ,https://kaihouse.github.io/media/posts/8/responsive/600-sm.jpeg 600w ,https://kaihouse.github.io/media/posts/8/responsive/600-md.jpeg 768w ,https://kaihouse.github.io/media/posts/8/responsive/600-lg.jpeg 1200w ,https://kaihouse.github.io/media/posts/8/responsive/600-xl.jpeg 1600w"  alt="" width="600" height="600"></figure>
             ]]>
         </content>
     </entry>
@@ -144,7 +144,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://kaihouse.github.io/media/posts/1/7.jpeg" alt="" />
-                    OVERVIEW HeyHoney暂时还处于开发阶段，所以不能描述其功能，在这里放出几个简单的页面和设计。 WORKS 
+                    OVERVIEW HeyHoney暂时还处于开发阶段，所以不能描述其功能，在这里放出几个简单的页面和设计。 WORKS
                 ]]>
             </summary>
         <content type="html">
@@ -175,7 +175,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://kaihouse.github.io/media/posts/4/8.jpeg" alt="" />
-                    OVERVIEW 
+                    OVERVIEW
                 ]]>
             </summary>
         <content type="html">
